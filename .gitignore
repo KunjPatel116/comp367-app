@@ -20,3 +20,6 @@ bin/
 
 # Build results
 *.Build.*
+
+# Ignore Visual Studio project settings
+Properties/
