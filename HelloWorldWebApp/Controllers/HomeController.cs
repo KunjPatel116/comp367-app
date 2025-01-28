@@ -6,7 +6,7 @@ namespace HelloWorldWebApp.Controllers
     {
         public string Index()
         {
-            return "Hello Kunj Patel!";
+            return "Hello KUNJ PATEL!";
         }
     }
 }
